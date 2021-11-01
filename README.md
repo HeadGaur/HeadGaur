@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeadGaur / Kartik Gaur
 - 👀 I’m interested in every domain related to programming
-- 🌱 I’m currently learning Python/python web devlopment / python app devlopment
+- 🌱 I’m currently learning Python/Machine Learning /python web devlopment / python app devlopment
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me : Linkedin : https://www.linkedin.com/in/kartik-gaur
 
