@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @HeadGaur / Kartik Gaur
-- 👀 I’m interested in every domain related to Data Science
-- 🌱 I’m currently learning Python/Machine Learning /python web devlopment / python app devlopment
-- 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me : Linkedin : https://www.linkedin.com/in/kartik-gaur
+Results-oriented data professional with 3 years of experience in Data Analytics and Data Science, currently excelling as a Data Analyst in a SaaS company. Proficient in utilizing analytical tools and methods to drive business insights and optimize processes.
+
+
+Resume : https://coffee-neila-50.tiiny.site
+
+skills : Python, SQL, Data Visualisation (Tableau, Looker Data Studio), Statistcis, Machine Learning
+
+Blogs : https://medium.com/@ikartikgaur
+
+Contacts- 
+Mobile : +918560846941
+gmail : ikartikgaur@gmail.com
+Linkedin : https://www.linkedin.com/in/kartik-gaur
 
 <!---
 HeadGaur/HeadGaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
